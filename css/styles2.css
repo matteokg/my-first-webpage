@@ -1,0 +1,18 @@
+h1 {
+  color: #ff3399;
+  text-align: justify;
+}
+
+h3 {
+  font-style: oblique;
+  font-stretch: extra-condensed;
+}
+
+ul {
+  float: inherit;
+  text-shadow: drop-left;
+}
+
+img {
+  image-orientation: rotate-left;
+}
